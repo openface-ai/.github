@@ -1,4 +1,4 @@
-# OpenFace - Open Source AI Model Hub 😮
+# OpenFace - Open Source AI Model & Dataset Hub 😮
 
 ```ascii
    ___  ___  __    __  ___  _      ___   __ 
